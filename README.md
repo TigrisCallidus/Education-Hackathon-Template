@@ -51,8 +51,8 @@ Form of Teaching: Students solve exercises on their own.
 
 
 The exercises can be found [Here](ExampleExercise.ipynb)
-I will give the students enough time to solve them, and 
-will answer questions if they have.
+
+The students will be given enough time to solve the exercises , and ask additional questions if any come up.
 
 
 
